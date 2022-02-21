@@ -21,7 +21,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'Merkelizer',
     icon: 'FarmIcon',
     href: '/farms',
   },
