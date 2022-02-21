@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Pools',
+    label: 'Merkelizer',
     icon: 'PoolIcon',
     href: '/pools',
   },
@@ -36,15 +36,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/mozartfinance',
+        href: '#',
       },
       {
         label: 'Docs',
-        href: 'https://mozartfinance.gitbook.io/mozart-finance/',
+        href: '#',
       },
       {
         label: 'Blog',
-        href: 'https://mozart-finance.medium.com/',
+        href: '#',
       },
     ],
   },
